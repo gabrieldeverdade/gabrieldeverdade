@@ -8,7 +8,7 @@
 
   🙋🏽 I'm Gabriel! I live in Brazil and I really like what I study!
   - 🌱 I’m currently studying Computer Science at PUC-Minas
-  - 🤔 I'm currently working in some cool projects in the university!
+  - 🤔 I'm currently working in some cool projects at college!
 </p>
 
 <!-- Dropdown -->

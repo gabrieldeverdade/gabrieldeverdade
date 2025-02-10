@@ -20,7 +20,7 @@
 
 <!-- Links -->
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabriel-fernandes-878b40164/)
-<a href = "mailto:gabri10.fernandes23@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+<a href = "mailto:gabriel.gabrieldeverdade@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
 
 <!--GitStats-->
 ![VariableBee GitHub stats](https://github-readme-stats.vercel.app/api?username=gabrieldeverdade&show_icons=true&theme=codeSTACKr)

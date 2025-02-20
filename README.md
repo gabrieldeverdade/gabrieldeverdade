@@ -1,3 +1,6 @@
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=323B3B&height=120&section=header"/>
+
+
 <!--título-->
 <div id="user-content-toc">
   <ul align="center">
@@ -23,8 +26,10 @@
 <a href = "mailto:gabri10.fernandes23@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
 
 <!--GitStats-->
-![VariableBee GitHub stats](https://github-readme-stats.vercel.app/api?username=gabrieldeverdade&show_icons=true&theme=codeSTACKr)
-<img alt="top langs" width="34.8%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrieldeverdade&theme=codeSTACKr&layout=compact"/>
+<div align="center">  
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=gabrieldeverdade&show_icons=true&count_private=true&hide_border=true&title_color=00bfbf&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117" alt="Gabriel Azevedo Fernandes github stats"/> 
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrieldeverdade&layout=compact&hide_border=true&title_color=00bfbf&text_color=00bfbf&bg_color=0d1117" />
+</div>
 
 ## 🧑‍💻 Skills:
 <!-- Skills: Programming Languages -->
@@ -44,3 +49,5 @@
     <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
     <img align="center" alt="Bootstrap" height="30" width="40" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/bootstrap/bootstrap-original.svg">
   </div>
+
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=323B3B&height=120&section=footer"/>

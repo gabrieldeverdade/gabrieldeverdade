@@ -1,53 +1,69 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=323B3B&height=120&section=header"/>
+<!--Barra Superior Colorida-->
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=e82e02&height=120&section=header"/>
 
 
-<!--título-->
-<div id="user-content-toc">
-  <ul align="center">
-     <summary><h1 style="display: inline-block">👋Welcome to my profile, make yourself at home!</h1></summary>
-</div>
-    <!-- Presentation -->
-<p>
+<!--título--> 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=fff5dd&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+MY+NAME+is+Gabriel+Azevedo+Fernandes;I+study+Computer+Science+at+PUC+Minas;Make+Yourself+at+Home!+:%29)](https://git.io/typing-svg) 
 
-  🙋🏽 I'm Gabriel! I live in Brazil and I really like what I study!
-  - 🌱 I’m currently studying Computer Science at PUC-Minas
-  - 🤔 I'm currently working in some cool projects at college!
-</p>
+
+ <!-- Presentation -->
+ #
+<p align="center">Estudante de Ciência da Computação na Faculdade PUC Minas em Belo Horizonte. Atualmente desenvolvendo projetos acadêmicos e pessoais.
+Estou constantemente atualizando meus conhecimentos e buscando novos problemas e desafios para solucionar. 
+
 
 <!-- Dropdown -->
-<details>
-  <summary>👨‍💻 Fun facts about me</summary>
-
-  - ⚡ I love to draw, watching movies and I like design and editing videos! Besides, I love to share knowledge and learn about other cultures and science!🌍 
+<details align="center">
+  <summary ><strong>👨‍💻 My Hobbies</strong></summary>
+  
+  <p align="center">  Video Editing || Draw || Photography || Ukulele || Movies, Series, and Animations 
 </details>
 
+
 <!-- Links -->
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabriel-fernandes-878b40164/)
-<a href = "mailto:gabri10.fernandes23@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+<h3 align="left">Connect with me!</h3>
+
+![E-mail](https://img.shields.io/badge/Gmail-EA4335.svg?style=for-the-badge&logo=Gmail&logoColor=white)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&labelColor=0D1117&logoColor=white)](https://www.linkedin.com/in/gabrieldeverdade/)
+
 
 <!--GitStats-->
+#
 <div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=gabrieldeverdade&show_icons=true&count_private=true&hide_border=true&title_color=00bfbf&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117" alt="Gabriel Azevedo Fernandes github stats"/> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrieldeverdade&layout=compact&hide_border=true&title_color=00bfbf&text_color=00bfbf&bg_color=0d1117" />
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=gabrieldeverdade&show_icons=true&count_private=true&hide_border=false&border_color=120706&title_color=fff5dd&icon_color=e82e02&text_color=c9d1d9&bg_color=0d1117" alt="Gabriel Azevedo Fernandes github stats"/> 
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrieldeverdade&layout=compact&hide_border=false&border_color=120706&title_color=fff5dd&text_color=fff4df&bg_color=0d1117" />
 </div>
 
-## 🧑‍💻 Skills:
-<!-- Skills: Programming Languages -->
-  <div style="flex-basis: 48;">
-    <h3>Currently Learning</h3>
-    <img align="center" alt="Flutter" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/flutter/flutter-original.svg">
-    <img align="center" alt="Dart" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/dart/dart-original.svg">
-    <img align="center" alt="Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/v2.15.1/icons/java/java-original.svg">
-    <img align="center" alt="Figma" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg">
-  </div>
- <div style="flex-basis: 48;">
-    <h3>I know but don't use often</h3>
-    <img align="center" alt="C" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">
-    <img align="center" alt="C++" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
-    <img align="center" alt="Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg">
-    <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-    <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-    <img align="center" alt="Bootstrap" height="30" width="40" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/bootstrap/bootstrap-original.svg">
-  </div>
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=323B3B&height=120&section=footer"/>
+<!--Skills-->
+### Main skills:
+![Python](https://img.shields.io/badge/-Python-0D1117?style=for-the-badge&logo=python&labelColor=0D1117&textColor=fff5dd)&nbsp;
+![React.js](https://img.shields.io/badge/-React.js-0D1117?style=for-the-badge&logo=react&labelColor=0D1117&textColor=fff5dd)&nbsp;
+![JavaScript](https://img.shields.io/badge/-JavaScript-0D1117?style=for-the-badge&logo=javascript&labelColor=0D1117&textColor=fff5dd)&nbsp;
+ 
+### Tools:
+![GitHub](https://img.shields.io/badge/-GitHub-0D1117?style=for-the-badge&logo=github&labelColor=0D1117&textColor=fff5dd)&nbsp;
+![Git](https://img.shields.io/badge/-Git-0D1117?style=for-the-badge&logo=git&labelColor=0D1117&textColor=fff5dd)&nbsp;
+![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-0D1117?style=for-the-badge&logo=visual-studio-code&logoColor=0D1117&labelColor=0D1117&textColor=fff5dd)
+![Figma](https://img.shields.io/badge/-Figma-0D1117?style=for-the-badge&logo=figma&labelColor=0D1117&textColor=fff5dd)&nbsp;
+![Windows](https://img.shields.io/badge/-Windows-0D1117?style=for-the-badge&logo=windows&labelColor=0D1117&textColor=fff5dd)&nbsp;
+![microsoft-office](https://img.shields.io/badge/-microsoft_office-0D1117?style=for-the-badge&logo=microsoft-office&labelColor=0D1117&textColor=fff5dd)&nbsp;
+![Power-BI](https://img.shields.io/badge/PowerBI-0D1117?style=for-the-badge&logo=Power%20BI&logoColor=0D1117&textColor=fff5dd)&nbsp;
+![Trello](https://img.shields.io/badge/Trello-0D1117?style=for-the-badge&logo=trello&logoColor=white&textColor=fff5dd)&nbsp;
+ 
+### Other Knowledge:
+![HTML](https://img.shields.io/badge/-HTML-0D1117?style=for-the-badge&logo=html5&labelColor=0D1117&textColor=fff5dd)&nbsp;
+![CSS](https://img.shields.io/badge/-CSS-0D1117?style=for-the-badge&logo=CSS3&logoColor=1572B6&labelColor=0D1117&textColor=fff5dd)&nbsp;
+![Java](https://img.shields.io/badge/java-0D1117.svg?style=for-the-badge&logo=openjdk&logoColor=fff5dd)
+![Boostrap](https://img.shields.io/badge/-boostrap-0D1117?style=for-the-badge&logo=bootstrap&labelColor=0D1117&textColor=fff5dd)&nbsp;
+![MySQL](https://img.shields.io/badge/-mysql-0D1117?style=for-the-badge&logo=mysql&labelColor=0D1117&textColor=fff5dd)&nbsp;
+
+  
+### Studying in this moment:
+![Python](https://img.shields.io/badge/-Python-0D1117?style=for-the-badge&logo=python&labelColor=0D1117&textColor=0D1117)&nbsp;
+![Node.JS](https://img.shields.io/badge/-Node.JS-0D1117?style=for-the-badge&logo=node.js&labelColor=0D1117&textColor=0D1117)&nbsp;
+![React.js](https://img.shields.io/badge/-React.js-0D1117?style=for-the-badge&logo=react&labelColor=0D1117)&nbsp;
+![JavaScript](https://img.shields.io/badge/-JavaScript-0D1117?style=for-the-badge&logo=javascript&labelColor=0D1117&textColor=0D1117)&nbsp;
+
+<!--Barra Inferior Colorida-->
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=e82e02&height=120&section=footer"/>

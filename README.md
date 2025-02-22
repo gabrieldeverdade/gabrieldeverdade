@@ -36,6 +36,7 @@ Estou constantemente atualizando meus conhecimentos e buscando novos problemas e
 
 
 <!--Skills-->
+#
 ### Main skills:
 ![Python](https://img.shields.io/badge/-Python-0D1117?style=for-the-badge&logo=python&labelColor=0D1117&textColor=fff5dd)&nbsp;
 ![React.js](https://img.shields.io/badge/-React.js-0D1117?style=for-the-badge&logo=react&labelColor=0D1117&textColor=fff5dd)&nbsp;
@@ -54,7 +55,7 @@ Estou constantemente atualizando meus conhecimentos e buscando novos problemas e
 ### Other Knowledge:
 ![HTML](https://img.shields.io/badge/-HTML-0D1117?style=for-the-badge&logo=html5&labelColor=0D1117&textColor=fff5dd)&nbsp;
 ![CSS](https://img.shields.io/badge/-CSS-0D1117?style=for-the-badge&logo=CSS3&logoColor=1572B6&labelColor=0D1117&textColor=fff5dd)&nbsp;
-![Java](https://img.shields.io/badge/java-0D1117.svg?style=for-the-badge&logo=openjdk&logoColor=fff5dd)
+![C](https://img.shields.io/badge/-C'like-0D1117?style=for-the-badge&logo=cp&logoColor=purple&labelColor=fff5dd)&nbsp; 
 ![Boostrap](https://img.shields.io/badge/-boostrap-0D1117?style=for-the-badge&logo=bootstrap&labelColor=0D1117&textColor=fff5dd)&nbsp;
 ![MySQL](https://img.shields.io/badge/-mysql-0D1117?style=for-the-badge&logo=mysql&labelColor=0D1117&textColor=fff5dd)&nbsp;
 

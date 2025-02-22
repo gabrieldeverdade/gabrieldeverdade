@@ -8,8 +8,7 @@
 
  <!-- Presentation -->
  #
-<p align="center">Estudante de Ciência da Computação na Faculdade PUC Minas em Belo Horizonte. Atualmente desenvolvendo projetos acadêmicos e pessoais.
-Estou constantemente atualizando meus conhecimentos e buscando novos problemas e desafios para solucionar. 
+<p align="center">Student of Computer Science at PUC Minas University in Belo Horizonte. Currently developing academic and personal projects. I am constantly updating my knowledge and seeking new problems and challenges to solve. 
 
 
 <!-- Dropdown -->
